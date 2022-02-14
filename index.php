@@ -22,6 +22,7 @@
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
           <a class="nav-link" href="#skills">Skills</a>
+          <a class="nav-link" href="#intrest">Intrest</a>
         </nav>
       </nav>
     </div>
@@ -50,6 +51,15 @@
         <div class="vertical-center">
           <h2>Skills</h2>
           <h4><?php echo $json_data['skills']; ?><h4>
+          <p>...</p>
+        </div>
+      </div>
+      <hr>
+      <hr>
+      <div id="intrest" class="content-item">
+        <div class="vertical-center">
+          <h2>Intrest</h2>
+          <h4><?php echo $json_data['intrest']; ?><h4>
           <p>...</p>
         </div>
       </div>
