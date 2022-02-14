@@ -5,6 +5,8 @@
   "phone": "(123)456-7890",
   "email": "name@mail.com",
   "introduction": "A introduction of youself ...",
+  "skills": "No Skills",
+  "Intrest": "No Intrest",
   "experience":[
     {
       "title":"WEB DEVELOPER",
