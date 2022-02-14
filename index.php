@@ -45,11 +45,10 @@
         </div>
       </div>
       <hr>
-      <hr>
       <div id="Skills" class="content-item">
         <div class="vertical-center">
           <h2>Skills</h2>
-          <h3><?php echo $json_data['skills']; ?><h3>
+          <h4><?php echo $json_data['skills']; ?><h4>
           <p>...</p>
         </div>
       </div>
