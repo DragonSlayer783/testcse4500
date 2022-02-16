@@ -20,5 +20,14 @@
       "period":"March 2018 - 2021",
       "description":"A description of your experience with this job."
     }
-  ]
+  ],
+    "education":[
+      {
+        "school":"CSUSB",
+        "degree": "CSE",
+        "period": "August 2018 - Present",
+        "description": "School in San Bernardino"
+      }
+    ]
 }
+
